@@ -28,4 +28,4 @@ optional arguments:
 ### Installation
 Why would you want to do that, you mad, silly person?
 
-Anyway, if you really want to, clone the repository and run `python3 setup.py install`. You can then run dumbgrep from the CLI.
+Anyway, if you really want to, clone the repository and run `pip3 install .`. You should then be able to run dumbgrep from the CLI.
